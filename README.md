@@ -7,12 +7,4 @@
 ![certificado_gincana_satc](https://user-images.githubusercontent.com/25934151/78039407-7704e000-7344-11ea-8a5c-474ed5f71654.jpg)
 ![certificado_medio_satc](https://user-images.githubusercontent.com/25934151/78039411-779d7680-7344-11ea-9811-3addd9d0124d.jpg)
 ![certificado_narwal](https://user-images.githubusercontent.com/25934151/78039414-78360d00-7344-11ea-85a0-ceb85fb32d89.jpg)
-
-
-
-
-
-
-
-
-
+![certificado_omnistack11](https://user-images.githubusercontent.com/25934151/78667936-30693580-78b0-11ea-979a-ba6c5239ecd5.JPG)
